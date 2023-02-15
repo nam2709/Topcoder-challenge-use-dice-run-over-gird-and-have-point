@@ -1,0 +1,1 @@
+# Topcoder-challenge-use-dice-run-over-gird-and-have-point
